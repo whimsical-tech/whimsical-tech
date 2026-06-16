@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Cristina Santana 👩‍💻
+# Cristina Santana
 
-Senior Frontend Engineer | React, Next.js, TypeScript | Berlin → Tokyo
+🌇 Senior Frontend Engineer | React, Next.js, TypeScript | Berlin → Tokyo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/acsfrontend)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel)](https://whimsical-tech.vercel.app)
@@ -59,9 +59,9 @@ As someone who once translated games word-by-word with a paper dictionary, I kno
 | Performance Wins | 40% workflow boost • 30% load time reduction • #1 on Google Search |
 | Languages | Portuguese (native) • English (fluent) • Japanese (N3) • German (intermediate) |
 
-# クリスティーナ・サンタナ 👩‍💻
+# クリスティーナ・サンタナ
 
-シニアフロントエンドエンジニア | React、Next.js、TypeScript | ベルリン→東京
+🌇 シニアフロントエンドエンジニア | React、Next.js、TypeScript | ベルリン→東京
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/acsfrontend)
 [![ポートフォリオ](https://img.shields.io/badge/ポートフォリオ-8B5CF6?style=for-the-badge&logo=vercel)](https://whimsical-tech.vercel.app)
