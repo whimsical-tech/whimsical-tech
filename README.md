@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel)](https://whimsical-tech.vercel.app)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge)](https://qiita.com/frontendpro)
 
+日本語版をご覧になるには、スクロールしてください。
+
 ## 🔭 What I Build
 - Real-time data dashboards & visualization tools, including vehicles' tracking with Google Maps SDK
 - Checkout pages and integration with payment APIs
