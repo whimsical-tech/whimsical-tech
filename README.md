@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Component systems & design libraries for teams
 
 ## 🌱 What I'm Learning
-Practicing to get to Japanese N2 level while simultaneously studying Generative AI
+My priority is to improve my technical Japanese, so I'm reading Qiita articles everyday.
 
 ## 🛠️ Tech Stack
 **Frontend:** React ⚛️ • Next.js • TypeScript • Vue.js • Javascript • HTML5 • CSS3
@@ -77,7 +77,7 @@ As someone who once translated games word-by-word with a paper dictionary, I kno
 - チーム向けコンポーネントシステムとデザインライブラリ
 
 ## 🌱 今学んでいること
-日本語 N2 レベル取得の練習と並行して生成 AI を勉強中
+技術的な日本語力を高めることを優先しているので、毎日Qiitaの記事を読んでいます。
 
 ## 🛠️ テックスタック
 **フロントエンド:** React ⚛️ • Next.js • TypeScript • Vue.js • JavaScript • HTML5 • CSS3  
